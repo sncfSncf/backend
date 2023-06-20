@@ -1,0 +1,27 @@
+# Spring Boot
+/target/
+!/target/*.jar
+!/target/classes/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Maven
+/.mvn/
+/.mvn/wrapper/
+
+# IDE
+/.idea/
+*.iml
+*.iws
+*.ipr
+
+# Gradle
+/.gradle/
+/build/
+
+# Logs
+/log/
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
